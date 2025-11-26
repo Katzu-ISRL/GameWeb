@@ -24,17 +24,16 @@ const game = new Phaser.Game(config);
 // Función para cargar imágenes, sonidos, etc.
 function preload ()
 {
-    // this.load.image('sky', 'assets/sky.png');
+    this.load.image('T1TEAM', 'image/assets/T1TEAM.jpg');
 }
 
 // Función que se ejecuta una vez, después de la carga
 function create ()
 {
-    // this.add.image(400, 300, 'sky');
+    this.add.image(400, 300, 'T1TEAM');
 }
 
 // Función que se ejecuta en cada frame
 function update (time, delta)
 {
-    // Lógica del juego, movimiento, etc.
 }
