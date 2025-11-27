@@ -1,2 +1,0 @@
-# GameWeb
-Game web proyect.
