@@ -1,4 +1,4 @@
-# [Name Proyect]
+# GameWeb
 MIT Licence.
 
 Requirements:
